@@ -9,14 +9,14 @@ swig and setup follow readme
 Polygon for text eval
 
 prepare image and modelfile then run eval
-[HRSCmodel-kb96](链接：https://pan.baidu.com/s/1SPT3_hZfKPb1nBniUJzoIQ  
+[HRSCmodel-kb96](https://pan.baidu.com/s/1SPT3_hZfKPb1nBniUJzoIQ  
 )  
 res101
 1280*720 88.9
 740*500 90.6
 
 prepare image and modelfile then run eval
-[M500model-c280](链接：https://pan.baidu.com/s/1cPjHDCA80xD91Ya9CBcCSg  
+[M500model-c280](https://pan.baidu.com/s/1cPjHDCA80xD91Ya9CBcCSg  
 )
 res50
 1280*720 without instance segmentation 65.6 F

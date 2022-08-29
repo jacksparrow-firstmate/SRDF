@@ -23,7 +23,7 @@ res50
 res 101 with instance segmentation +11%F
 
 prepare image and modelfile then run eval
-[dotamodel-d25g]
+[dotamodel-9exn](https://pan.baidu.com/s/1wLrtQltTwAnJsYlpfIePZw)
 res101
 cut 600 resize 800
 800*800 total map 73.5
